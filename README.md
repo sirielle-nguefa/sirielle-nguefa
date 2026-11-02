@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://sirielle-nguefa.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2E44C9?style=flat-square"/></a>
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sirielle-pontue-nguefa-ngouowoui-488511318"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:siriellen0@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-141B2D?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
